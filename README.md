@@ -43,16 +43,3 @@ Output: It is a Palindrome ✅
 Input: hello
 Output: It is not a Palindrome ❌
 ```
-
-## 📚 Concepts Used
-
-* JavaScript Functions
-* Function Calls
-* String Methods
-* Conditional Statements
-* DOM Manipulation
-* Event Handling
-
-## 👩‍💻 Author
-
-**Kavya S**
